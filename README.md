@@ -10,3 +10,5 @@
 
 
 # Chapter 5: https://docs.spring.io/spring-security/reference/servlet/authorization/authorize-http-requests.html
+
+# Chapter 6: https://docs.spring.io/spring-security/reference/servlet/authorization/authorize-http-requests.html#match-requests
